@@ -2,8 +2,8 @@ import os
 from random import randint
 from datetime import datetime, timedelta
 
-start_date = datetime(2023, 7, 28)
-end_date = datetime(2023, 7, 31)
+start_date = datetime(2023, 8, 3)
+end_date = datetime(2023, 8, 3)
 
 current_date = start_date
 
