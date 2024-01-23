@@ -1,1 +1,1 @@
-printf("Jai Shree Ram")
+printf("Jai Shri Ram")
